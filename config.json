@@ -1,0 +1,11 @@
+{
+  "project_name": "weather-app",
+  "status": "active",
+  "phases": [
+    {"id": 1, "name": "Create Flask app structure", "status": "in_progress"},
+    {"id": 2, "name": "Add OpenWeatherMap integration", "status": "pending"},
+    {"id": 3, "name": "Create web UI", "status": "pending"},
+    {"id": 4, "name": "Test and verify", "status": "pending"}
+  ],
+  "created": "2026-02-09T08:18:00Z"
+}
